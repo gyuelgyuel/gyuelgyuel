@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20github%20&height=200&fontSize=50&fontColor=FF00FF&textBg=true)
 
-[![*'s github stats](https://github readme stats.vercel.app/api?username=gyuelgyuel)](https://github.com/gyuelgyuel)
+[![gyuelgyuel's github stats](https://github readme stats.vercel.app/api?username=gyuelgyuel)](https://github.com/gyuelgyuel)
 <!--
 **gyuelgyuel/gyuelgyuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
