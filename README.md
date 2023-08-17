@@ -1,4 +1,4 @@
-### Hi there 👋
+### Keep on study
 <!--
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20github%20&height=200&fontSize=50&fontColor=FF00FF&textBg=true)
 -->
